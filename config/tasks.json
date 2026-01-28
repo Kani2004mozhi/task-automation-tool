@@ -1,5 +1,5 @@
 {
   "task": "backup",
-  "source": "data/source.txt",
-  "destination": "data/backup.txt"
+  "source": "source.txt",
+  "destination": "backup.txt"
 }
